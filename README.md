@@ -53,7 +53,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Presentations
 
 ## Official Twitter Accounts
-- MAP Protocol [@fuellabs_](https://twitter.com/MapProtocol)
+- MAP Protocol [@MapProtocol](https://twitter.com/MapProtocol)
 
 ## People to Follow
 
