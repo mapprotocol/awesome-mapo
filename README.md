@@ -1,7 +1,7 @@
 # MAP Protocol
 A maintained and comprehensive list of MAP Protocol resources!
 
-![MAP Image](https://user-images.githubusercontent.com/9806174/181594451-aa0bae5f-6794-4563-a3e9-d0c581366da5.jpg "Title")
+![MAP Image](https://user-images.githubusercontent.com/48773775/191499979-bb229459-b658-4640-97e2-b3722adfd881.jpg)
 
 
 ## Upcoming Events and Hackathons
