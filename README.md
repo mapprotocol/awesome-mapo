@@ -83,4 +83,4 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 | Name | Kind | Status |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
-|  BarterNetwork | dApp | UnderDev | [barternetwork]([https://microchain-landing.netlify.app](https://www.barternetwork.io/)  |  [twitter](https://twitter.com/BarterNetworkio) | [github](https://github.com/barternetwork)  |
+|  BarterNetwork | dApp | UnderDev | [barternetwork][https://microchain-landing.netlify.app](https://www.barternetwork.io/)  |  [twitter](https://twitter.com/BarterNetworkio) | [github](https://github.com/barternetwork)  |
