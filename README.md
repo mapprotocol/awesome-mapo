@@ -11,8 +11,10 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 ## Articles
 
-
-
++ [$MAP Token Staking Tutorial](https://medium.com/marcopolo-protocol/map-token-staking-tutorial-d78fc60e76e9)
++ [MAP Protocol + CertiK](https://medium.com/marcopolo-protocol/map-protocol-and-certik-join-forces-to-safeguard-cross-chain-security-e4cbf1c40fe7)
++ [How to Become a Validator on MAP Protocol Tutorial](https://medium.com/marcopolo-protocol/a-step-by-step-guide-for-creating-a-validator-on-map-protocol-ab8ad14fae8f)
++ [How to Purchase $MAP Tokens Tutorial](https://mapprotocolofficial.medium.com/how-to-get-map-tokens-via-metamask-5ad02ba98b13)
 + [MAP Mainnet Goes Live on August 31!](https://medium.com/marcopolo-protocol/map-mainnet-goes-live-on-august-31-4d3b044fcd8c)
 + [Nomad Bridge Hack Explained and How MAP Protocol Can Help](https://medium.com/marcopolo-protocol/nomad-bridge-hack-explained-and-how-map-protocol-can-help-975ebdc08b82)
 + [MAP + IOST](https://medium.com/marcopolo-protocol/map-protocol-partners-with-iost-to-provide-omnichain-infrastructure-for-dapp-development-32e19b0d80b8)
@@ -47,19 +49,32 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [Understanding Cross-Chain Communication](https://mapprotocolofficial.medium.com/map-protocol-understanding-cross-chain-communication-relay-light-client-bbed35e3701c) — Relay & Light Client
 
 ## AMAs
+- [AMA with MAP Protocol and CertiK](https://twitter.com/i/spaces/1jMKgLgmMAMGL?s=20)
+- [Security Discussion with Assure DeFi](https://twitter.com/i/spaces/1OyKADLwoNnxb?s=20)
+- [AMA with SWFT blockchain] (https://www.youtube.com/watch?v=o0JbAKsOcO8&t=10s)
+- [On Decentralized Hack](https://twitter.com/i/spaces/1lPKqmOzdPNKb?s=20)
+- [A Comparison on Four CrossChain Projects] (https://twitter.com/i/spaces/1vAxRkAkyEZKl?s=20)
 
 ## Podcasts
 
 ## Presentations
+- [MAP Protocol Token2049 SG Web3 Gala](https://twitter.com/MapProtocol/status/1571394636870221825)
+- [MAP Protocol at NEARCON2022](https://twitter.com/MapProtocol/status/1570409984898519040)
+- [MAP Online Summit --Which infrastructure stack takes to implement Web3 ](https://www.youtube.com/watch?v=HyhmgPlzh1Q)
+- [MAP Protocol at Concensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)
+- [MAP Protocol hosts VIP Axe Throwing Party at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)
 
 ## Official Twitter Accounts
 - MAP Protocol [@MapProtocol](https://twitter.com/MapProtocol)
 
 ## People to Follow
+- James, the co-founder of MAP labs [@jamesxycMAP](https://twitter.com/jamesxycMAP)
 
 
 ## Best Tweets
-
+- [MAP Protocol $MAP Token Staking](https://twitter.com/MapProtocol/status/1569672380150325249)
+- [Understanf MAP Protocol in less than 3 minutes](https://twitter.com/MapProtocol/status/1570290846133800960)
+- [MAP Mainnet Launch on August 31](https://twitter.com/MapProtocol/status/1564526177254903808)
 
 ## Apply for Grants
 
