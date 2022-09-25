@@ -20,7 +20,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [MAP + IOST](https://medium.com/marcopolo-protocol/map-protocol-partners-with-iost-to-provide-omnichain-infrastructure-for-dapp-development-32e19b0d80b8)
 + [MAP + Harmony](https://medium.com/marcopolo-protocol/harmony-and-map-protocol-announce-strategic-cross-chain-partnership-connecting-harmony-with-all-76e605caf234)
 + [Relayer Node](https://mapprotocolofficial.medium.com/relayer-node-token-withdrawal-process-574507dda916) 
-+ [MAP + SWIFT](https://medium.com/marcopolo-protocol/map-protocol-partners-with-swft-blockchain-to-provide-omnichain-infrastructure-support-d2a9fa5a9258)
++ [MAP + SWFT](https://medium.com/marcopolo-protocol/map-protocol-partners-with-swft-blockchain-to-provide-omnichain-infrastructure-support-d2a9fa5a9258)
 + [MAP + OkC](https://medium.com/marcopolo-protocol/map-protocol-partners-with-okc-to-provide-omnichain-infrastructure-for-dapp-development-437e8c86c26b)
 + [MAP + loteX](https://medium.com/marcopolo-protocol/map-protocol-partners-with-iotex-to-provide-omni-chain-infrastructure-for-dapp-development-6b5e7a6e4dcd)
 + [MAP Pre-Mainnet Launch](https://medium.com/marcopolo-protocol/makalu-poc-3-map-protocols-pre-mainnet-launching-soon-omnichain-is-coming-a5ea85feff7f)
