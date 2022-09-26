@@ -5,9 +5,13 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 
 ## Upcoming Events and Hackathons
-| Name | Dates | Location | Sponsoring |
+| Name | Dates | Location | Sponsors |
 |---|---|---|---|
-|   | Date | Location | Yes |
+| [Web3 007 Gala at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | MAP Protocol, NEAR,  CertiK |
+| [MAP at NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040)| 2022/9/14|Lisbon| --- |
+| [MAP Protocol X KCC at Consensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)| 2022/06/15| Austin, Texas| KuCoin Community Chain|
+| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)| 2022/04/17| Los Angeles, California| MAP Protocol|
+| [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|2022/04/07| Miami, Florida| MAP Protocol|
 
 ## Articles
 
@@ -58,11 +62,9 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Podcasts
 
 ## Presentations
-- [MAP Protocol Token2049 SG Web3 Gala](https://twitter.com/MapProtocol/status/1571394636870221825)
-- [MAP Protocol at NEARCON2022](https://twitter.com/MapProtocol/status/1570409984898519040)
-- [MAP Online Summit --Which infrastructure stack takes to implement Web3 ](https://www.youtube.com/watch?v=HyhmgPlzh1Q)
-- [MAP Protocol at Concensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)
-- [MAP Protocol hosts VIP Axe Throwing Party at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)
+- [MAP Lightbook](https://files.maplabs.io/pdf/mapprotocol_whitepaper_en.pdf)
+- [MAP Docs ](https://docs.maplabs.io/)
+
 
 ## Official Twitter Accounts
 - MAP Protocol [@MapProtocol](https://twitter.com/MapProtocol)
@@ -73,7 +75,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 ## Best Tweets
 - [MAP Protocol $MAP Token Staking](https://twitter.com/MapProtocol/status/1569672380150325249)
-- [Understanf MAP Protocol in less than 3 minutes](https://twitter.com/MapProtocol/status/1570290846133800960)
+- [Understand MAP Protocol in less than 3 minutes](https://twitter.com/MapProtocol/status/1570290846133800960)
 - [MAP Mainnet Launch on August 31](https://twitter.com/MapProtocol/status/1564526177254903808)
 
 ## Apply for Grants
