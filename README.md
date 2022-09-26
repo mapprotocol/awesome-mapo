@@ -55,9 +55,9 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## AMAs
 - [AMA with MAP Protocol and CertiK](https://twitter.com/i/spaces/1jMKgLgmMAMGL?s=20)
 - [Security Discussion with Assure DeFi](https://twitter.com/i/spaces/1OyKADLwoNnxb?s=20)
-- [AMA with SWFT blockchain] (https://www.youtube.com/watch?v=o0JbAKsOcO8&t=10s)
+- [AMA with SWFT blockchain](https://www.youtube.com/watch?v=o0JbAKsOcO8&t=10s)
 - [On Decentralized Hack](https://twitter.com/i/spaces/1lPKqmOzdPNKb?s=20)
-- [A Comparison on Four CrossChain Projects] (https://twitter.com/i/spaces/1vAxRkAkyEZKl?s=20)
+- [A Comparison on Four CrossChain Projects](https://twitter.com/i/spaces/1vAxRkAkyEZKl?s=20)
 
 ## Podcasts
 
