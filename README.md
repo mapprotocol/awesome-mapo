@@ -78,7 +78,10 @@ A maintained and comprehensive list of MAP Protocol resources!
 - [Understand MAP Protocol in less than 3 minutes](https://twitter.com/MapProtocol/status/1570290846133800960)
 - [MAP Mainnet Launch on August 31](https://twitter.com/MapProtocol/status/1564526177254903808)
 
-## Apply for Grants
+## Official Addresses
+- [Official ERC-20 Address](https://etherscan.io/token/0x9e976f211daea0d652912ab99b0dc21a7fd728e4)
+- [Official BSC Address](https://bscscan.com/address/0x8105ECe4ce08B6B6449539A5db23e23b973DfA8f)
+- [Official Polygon Address](https://polygonscan.com/address/0xBAbceE78586d3e9E80E0d69601A17f983663Ba6a)
 
 
 ## Projects Building on Fuel
