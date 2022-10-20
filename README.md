@@ -62,16 +62,12 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Podcasts
 
 ## Presentations
-- [MAP Lightbook](https://files.maplabs.io/pdf/mapprotocol_whitepaper_en.pdf)
-- [MAP Docs ](https://docs.maplabs.io/)
+- [MAP Litebook](https://files.maplabs.io/pdf/mapprotocol_whitepaper_en.pdf)
+- [Introduction](https://docs.maplabs.io/)
 
 
 ## Official Twitter Accounts
 - MAP Protocol [@MapProtocol](https://twitter.com/MapProtocol)
-
-## People to Follow
-- James, the co-founder of MAP labs [@jamesxycMAP](https://twitter.com/jamesxycMAP)
-
 
 ## Best Tweets
 - [MAP Protocol $MAP Token Staking](https://twitter.com/MapProtocol/status/1569672380150325249)
@@ -84,7 +80,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 - [Official Polygon Address](https://polygonscan.com/address/0xBAbceE78586d3e9E80E0d69601A17f983663Ba6a)
 
 
-## Projects Building on Fuel
+## Projects Building on MAP
 
 | Name | Kind | Status |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
