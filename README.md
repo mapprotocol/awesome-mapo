@@ -59,8 +59,6 @@ A maintained and comprehensive list of MAP Protocol resources!
 - [On Decentralized Hack](https://twitter.com/i/spaces/1lPKqmOzdPNKb?s=20)
 - [A Comparison on Four CrossChain Projects](https://twitter.com/i/spaces/1vAxRkAkyEZKl?s=20)
 
-## Podcasts
-
 ## Presentations
 - [MAP Litebook](https://files.maplabs.io/pdf/mapprotocol_whitepaper_en.pdf)
 - [Introduction](https://docs.maplabs.io/)
