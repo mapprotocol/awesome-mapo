@@ -7,6 +7,8 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | Sponsors |
 |---|---|---|---|
+|MAP Protocol at HK Fintech Week 2022, Hong Kong| (https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/20/31| Hong Kong | MAP Protocol
+|MAP Protocol at BWB2022 Busan, Korea|(https://mobile.twitter.com/MapProtocol/status/1585603903193653249)|2022/10/27| Busan, Korea |MAP Protocol|
 | [Web3 007 Gala at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | MAP Protocol, NEAR,  CertiK |
 | [MAP at NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040)| 2022/9/14|Lisbon| --- |
 | [MAP Protocol X KCC at Consensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)| 2022/06/15| Austin, Texas| KuCoin Community Chain|
@@ -14,7 +16,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 | [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|2022/04/07| Miami, Florida| MAP Protocol|
 
 ## Articles
-
++ [MAP Community Update: $MAP Staking and Voting Clarification] (https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
 + [$MAP Token Staking Tutorial](https://medium.com/marcopolo-protocol/map-token-staking-tutorial-d78fc60e76e9)
 + [MAP Protocol + CertiK](https://medium.com/marcopolo-protocol/map-protocol-and-certik-join-forces-to-safeguard-cross-chain-security-e4cbf1c40fe7)
 + [How to Become a Validator on MAP Protocol Tutorial](https://medium.com/marcopolo-protocol/a-step-by-step-guide-for-creating-a-validator-on-map-protocol-ab8ad14fae8f)
@@ -53,6 +55,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [Understanding Cross-Chain Communication](https://mapprotocolofficial.medium.com/map-protocol-understanding-cross-chain-communication-relay-light-client-bbed35e3701c) — Relay & Light Client
 
 ## AMAs
+- [AMA with MAP Protocol, CoinTelegraph, Athena Ventures on Web3 in Hong Kong] (https://mobile.twitter.com/MapProtocol/status/1588069640248299520)
 - [AMA with MAP Protocol and CertiK](https://twitter.com/i/spaces/1jMKgLgmMAMGL?s=20)
 - [Security Discussion with Assure DeFi](https://twitter.com/i/spaces/1OyKADLwoNnxb?s=20)
 - [AMA with SWFT blockchain](https://www.youtube.com/watch?v=o0JbAKsOcO8&t=10s)
