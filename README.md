@@ -7,7 +7,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Upcoming Events and Hackathons
 | Name | Dates | Location | Sponsors |
 |---|---|---|---|
-|MAP Protocol at HK Fintech Week 2022, Hong Kong| (https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/20/31| Hong Kong | MAP Protocol
+|MAP Protocol at HK Fintech Week 2022, Hong Kong| (https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/10/31| Hong Kong | MAP Protocol
 |MAP Protocol at BWB2022 Busan, Korea|(https://mobile.twitter.com/MapProtocol/status/1585603903193653249)|2022/10/27| Busan, Korea |MAP Protocol|
 | [Web3 007 Gala at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | MAP Protocol, NEAR,  CertiK |
 | [MAP at NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040)| 2022/9/14|Lisbon| --- |
