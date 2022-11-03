@@ -16,7 +16,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 | [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|2022/04/07| Miami, Florida| MAP Protocol|
 
 ## Articles
-+ [MAP Community Update: $MAP Staking and Voting Clarification] (https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
++ [MAP Community Update: $MAP Staking and Voting Clarification](https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
 + [$MAP Token Staking Tutorial](https://medium.com/marcopolo-protocol/map-token-staking-tutorial-d78fc60e76e9)
 + [MAP Protocol + CertiK](https://medium.com/marcopolo-protocol/map-protocol-and-certik-join-forces-to-safeguard-cross-chain-security-e4cbf1c40fe7)
 + [How to Become a Validator on MAP Protocol Tutorial](https://medium.com/marcopolo-protocol/a-step-by-step-guide-for-creating-a-validator-on-map-protocol-ab8ad14fae8f)
