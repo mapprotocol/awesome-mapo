@@ -11,9 +11,9 @@ A maintained and comprehensive list of MAP Protocol resources!
 | [MAP Protocol at BWB2022](https://mobile.twitter.com/MapProtocol/status/1585603903193653249)|2022/10/27| Busan, Korea |[The future company of BWB2022 in Busan, which guides you to the world of fantasy, MAP Protocol!](http://www.sportsseoul.com/news/read/1172449?ref=naver)|
 | [MAP at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | [Web3 007 Gala at Token2049 SG](https://www.globenewswire.com/en/news-release/2022/10/03/2526816/0/en/MAP-Protocol-CertiK-NEAR-Hosted-Web3-007-Gala-at-Token2049-Singapore-Sparking-the-Provably-Secure-Omnichain-Future.html) |
 | MAP at NEARCON 2022| 2022/9/14|Lisbon| [BUILD in NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040) |
-| MAP at Consensus 2022| 2022/06/15| Austin, Texas| [MAP Protocol X KCC at Consensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)|
-| MAP at NFT L.A.| 2022/04/17| Los Angeles, California| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
-| MAP at NFT Miami|2022/04/07| Miami, Florida| [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
+| [MAP at Consensus 2022](https://twitter.com/mapprotocol/status/1535404797771268096?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/06/15| Austin, Texas| [MAP Protocol X KCC at Consensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)|
+| [MAP at NFT Miami](https://twitter.com/mapprotocol/status/1511509526058393602?s=46&t=w5L7znUNzsao9dFLDz0wUA)|2022/04/07| Miami, Florida| [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
+| [MAP at NFT L.A.](https://twitter.com/mapprotocol/status/1508645280710680581?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/03/29| Los Angeles, California| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
 
 ## Articles
 + [MAP Community Update: $MAP Staking and Voting Clarification](https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
