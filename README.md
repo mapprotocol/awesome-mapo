@@ -4,7 +4,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 ![MAP Image](https://user-images.githubusercontent.com/48773775/191499979-bb229459-b658-4640-97e2-b3722adfd881.jpg)
 
 
-## Upcoming Events and Hackathons
+## Upcoming and Past Events 
 | Name | Dates | Location | Sponsors |
 |---|---|---|---|
 | [MAP Protocol at HK Fintech Week 2022, Hong Kong](https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/10/31| Hong Kong | MAP Protocol
