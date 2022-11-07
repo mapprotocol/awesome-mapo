@@ -16,6 +16,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 | [MAP at NFT L.A.](https://twitter.com/mapprotocol/status/1508645280710680581?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/03/29| Los Angeles, California| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
 
 ## Articles
++ [The provably secure cross-chain choice in this Omnichain Era - MAP Protocol](https://www.theblock.co/post/183618/the-provably-secure-cross-chain-choice-in-this-omnichain-era-map-protocol)
 + [MAP Community Update: $MAP Staking and Voting Clarification](https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
 + [$MAP Token Staking Tutorial](https://medium.com/marcopolo-protocol/map-token-staking-tutorial-d78fc60e76e9)
 + [MAP Protocol + CertiK](https://medium.com/marcopolo-protocol/map-protocol-and-certik-join-forces-to-safeguard-cross-chain-security-e4cbf1c40fe7)
