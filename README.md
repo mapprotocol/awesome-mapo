@@ -12,10 +12,15 @@ A maintained and comprehensive list of MAP Protocol resources!
 | [MAPO at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | [Web3 007 Gala at Token2049 SG](https://www.globenewswire.com/en/news-release/2022/10/03/2526816/0/en/MAP-Protocol-CertiK-NEAR-Hosted-Web3-007-Gala-at-Token2049-Singapore-Sparking-the-Provably-Secure-Omnichain-Future.html) |
 | [MAPO at NEARCON 2022](https://twitter.com/mapprotocol/status/1570409984898519040?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/9/14|Lisbon| [BUILD in NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040) |
 | [MAPO at Consensus 2022](https://twitter.com/mapprotocol/status/1535404797771268096?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/06/15| Austin, Texas| [MAP Protocol X KCC at Consensus 2022](https://cryptodaily.co.uk/2022/06/web-30-night-at-the-consensus2022-recap-map-protocol-x-kucoin-community-chain)|
-| [MAP at NFT Miami](https://twitter.com/mapprotocol/status/1511509526058393602?s=46&t=w5L7znUNzsao9dFLDz0wUA)|2022/04/07| Miami, Florida| [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
-| [MAP at NFT L.A.](https://twitter.com/mapprotocol/status/1508645280710680581?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/03/29| Los Angeles, California| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
+| [MAPO at NFT Miami](https://twitter.com/mapprotocol/status/1511509526058393602?s=46&t=w5L7znUNzsao9dFLDz0wUA)|2022/04/07| Miami, Florida| [NFT Asia in Miami NFT Week](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
+| [MAPO at NFT L.A.](https://twitter.com/mapprotocol/status/1508645280710680581?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/03/29| Los Angeles, California| [MAP the World at NFT L.A.](https://finance.yahoo.com/news/web3-0-map-world-taken-173500001.html)|
 
 ## Articles
++ [MAP Protocol bringing light client cross-chain bridge to NEAR & BNB Chain](https://www.theblock.co/post/188435)
++ [A Provably Secure Cross-Chain Infrastructure, helping DApps go Omnichain](https://hackernoon.com/a-provably-secure-cross-chain-infrastructure-helping-dapps-go-omnichain)
++ [Say Hello to $MAPO — Sparking the Omnichain Future with MAP Protocol](https://medium.com/@mapprotocolofficial/say-hello-to-mapo-sparking-the-omnichain-future-with-map-protocol-e8e92e382048)
++ [一文详解 MAP Protocol：可证明的去中心化全链基础设施](https://foresightnews.pro/article/h5Detail/19308)
++ [Web3 行业里是西方骗子多还是东方多？东西方项目有何异同？未来属于谁？](https://foresightnews.pro/article/h5Detail/19941)
 + [The provably secure cross-chain choice in this Omnichain Era - MAP Protocol](https://www.theblock.co/post/183618/the-provably-secure-cross-chain-choice-in-this-omnichain-era-map-protocol)
 + [MAP Community Update: $MAP Staking and Voting Clarification](https://medium.com/marcopolo-protocol/map-community-update-map-staking-and-voting-clarification-481f5368f68c)
 + [$MAP Token Staking Tutorial](https://medium.com/marcopolo-protocol/map-token-staking-tutorial-d78fc60e76e9)
@@ -48,6 +53,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [MAP Protocol Cross-chain Bridge Tutorial](https://medium.com/marcopolo-protocol/map-protocol-cross-chain-bridge-tutorial-d3527952aac5)
 + [MAP + Idavoll DAO](https://mapprotocolofficial.medium.com/map-protocol-partners-with-idavoll-dao-df2350674a21)
 + A [NEW ERA OF MAP PROTOCO](https://medium.com/marcopolo-protocol/map-protocol-a-new-era-of-map-protocol-is-about-to-begin-ama-recap-ff2facade135)L IS ABOUT TO BEGIN — AMA Recap
++ [MAPO Space Ep.1 面临熊市和 FTX 两大危机，区块链/加密货币世界将何去何从？](https://mirror.xyz/0x761B24875B5e27e24663bf47300461Df0486f31E/ONu_LMgdeTFKZV0kQEuK_Dv4QDpGnphfBXuMyHr2IEo)
 + [Makalu PoC-2](https://medium.com/marcopolo-protocol/map-protocol-makalu-poc-2-is-officially-launched-4750cb9b408d) is officially launched!
 + [Makalu PoC-2](https://medium.com/marcopolo-protocol/map-protocol-makalu-poc-2-will-be-officially-launched-on-december-10th-c9a0f325f075) will be officially launched on December 10th
 + [Announcement](https://mapprotocolofficial.medium.com/announcement-of-miliones-suspension-of-staking-service-from-november-2021-onwards-24d445e61286) of Milione’s suspension of staking service
@@ -58,6 +64,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## AMAs
 - [AMA with Zebec Web3 流支付与全链跨链](https://twitter.com/i/spaces/1OyKAVkPmAoGb?s=20)
 - [AMA with Zebec on Web3 Money Streaming and Omnichain Ecosystem](https://twitter.com/i/spaces/1BdxYyDjNALxX?s=20)
+- [Huddle with OGs in the Cold Bear熊市抱团取暖：面临熊市和加密货币两大危机，区块链/加密世界将何去何从？](https://twitter.com/i/spaces/1lDGLnEnYNmxm?s=20)
 - [AMA with MAP Protocol, CoinTelegraph, Athena Ventures on Web3 in Hong Kong](https://mobile.twitter.com/MapProtocol/status/1588069640248299520)
 - [AMA with MAP Protocol and CertiK](https://twitter.com/i/spaces/1jMKgLgmMAMGL?s=20)
 - [Security Discussion with Assure DeFi](https://twitter.com/i/spaces/1OyKADLwoNnxb?s=20)
@@ -88,4 +95,4 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 | Name | Kind | Status |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
-|  BarterNetwork | dApp | UnderDev | [barternetwork](https://www.barternetwork.io/)  |  [twitter](https://twitter.com/BarterNetworkio) | [github](https://github.com/barternetwork)  |
+|  ButterNetwork | dApp | UnderDev | [barternetwork](https://www.barternetwork.io/)  |  [twitter](https://twitter.com/BarterNetworkio) | [github](https://github.com/barternetwork)  |
