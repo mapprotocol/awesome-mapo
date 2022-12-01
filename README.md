@@ -7,7 +7,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 ## Upcoming and Past Events 
 | Name | Dates | Location | Media |
 |---|---|---|---|
-| [MAPO at HKFintech Week 2022](https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/10/31| Hong Kong | [MAP HK onto Web3](https://twitter.com/MapProtocol/status/1588475381929345024)|
+| [MAPO at HKFintech Week 2022](https://mobile.twitter.com/MapProtocol/status/1587089306761715712)|2022/10/31| Hong Kong | [MAP HK onto Web3](https://www.capital-hk.com/topics/%e8%b3%87%e8%a8%8a%e7%a7%91%e6%8a%80%e7%95%8c%ef%bc%9a%e6%94%af%e6%8c%81%e8%99%9b%e6%93%ac%e8%b3%87%e7%94%a2%e5%b1%95%e8%ab%ae%e8%a9%a2/)|
 | [MAPO at BWB2022](https://mobile.twitter.com/MapProtocol/status/1585603903193653249)|2022/10/27| Busan, Korea |[The future company of BWB2022 in Busan, which guides you to the world of fantasy, MAP Protocol!](http://www.sportsseoul.com/news/read/1172449?ref=naver)|
 | [MAPO at Token2049 SG](https://twitter.com/MapProtocol/status/1571394636870221825) | 2022/09/28 | Singapore | [Web3 007 Gala at Token2049 SG](https://www.globenewswire.com/en/news-release/2022/10/03/2526816/0/en/MAP-Protocol-CertiK-NEAR-Hosted-Web3-007-Gala-at-Token2049-Singapore-Sparking-the-Provably-Secure-Omnichain-Future.html) |
 | [MAPO at NEARCON 2022](https://twitter.com/mapprotocol/status/1570409984898519040?s=46&t=w5L7znUNzsao9dFLDz0wUA)| 2022/9/14|Lisbon| [BUILD in NEARCON 2022](https://twitter.com/MapProtocol/status/1570409984898519040) |
@@ -53,7 +53,7 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [MAP Protocol Cross-chain Bridge Tutorial](https://medium.com/marcopolo-protocol/map-protocol-cross-chain-bridge-tutorial-d3527952aac5)
 + [MAP + Idavoll DAO](https://mapprotocolofficial.medium.com/map-protocol-partners-with-idavoll-dao-df2350674a21)
 + A [NEW ERA OF MAP PROTOCO](https://medium.com/marcopolo-protocol/map-protocol-a-new-era-of-map-protocol-is-about-to-begin-ama-recap-ff2facade135)L IS ABOUT TO BEGIN — AMA Recap
-+ [MAPO Space Ep.1 面临熊市和 FTX 两大危机，区块链/加密货币世界将何去何从？](https://mirror.xyz/0x761B24875B5e27e24663bf47300461Df0486f31E/ONu_LMgdeTFKZV0kQEuK_Dv4QDpGnphfBXuMyHr2IEo)
++ [MAPO Space Ep.1 面临熊市和 FTX 两大危机，区块链/加密货币世界将何去何从?](https://mirror.xyz/0x761B24875B5e27e24663bf47300461Df0486f31E/ONu_LMgdeTFKZV0kQEuK_Dv4QDpGnphfBXuMyHr2IEo)
 + [Makalu PoC-2](https://medium.com/marcopolo-protocol/map-protocol-makalu-poc-2-is-officially-launched-4750cb9b408d) is officially launched!
 + [Makalu PoC-2](https://medium.com/marcopolo-protocol/map-protocol-makalu-poc-2-will-be-officially-launched-on-december-10th-c9a0f325f075) will be officially launched on December 10th
 + [Announcement](https://mapprotocolofficial.medium.com/announcement-of-miliones-suspension-of-staking-service-from-november-2021-onwards-24d445e61286) of Milione’s suspension of staking service
