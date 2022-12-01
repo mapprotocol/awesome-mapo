@@ -56,7 +56,9 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [Understanding Cross-Chain Communication](https://mapprotocolofficial.medium.com/map-protocol-understanding-cross-chain-communication-relay-light-client-bbed35e3701c) — Relay & Light Client
 
 ## AMAs
-- [AMA with MAP Protocol, CoinTelegraph, Athena Ventures on Web3 in Hong Kong] (https://mobile.twitter.com/MapProtocol/status/1588069640248299520)
+- [AMA with Zebec Web3 流支付与全链跨链](https://twitter.com/i/spaces/1OyKAVkPmAoGb?s=20)
+- [AMA with Zebec on Web3 Money Streaming and Omnichain Ecosystem](https://twitter.com/i/spaces/1BdxYyDjNALxX?s=20)
+- [AMA with MAP Protocol, CoinTelegraph, Athena Ventures on Web3 in Hong Kong](https://mobile.twitter.com/MapProtocol/status/1588069640248299520)
 - [AMA with MAP Protocol and CertiK](https://twitter.com/i/spaces/1jMKgLgmMAMGL?s=20)
 - [Security Discussion with Assure DeFi](https://twitter.com/i/spaces/1OyKADLwoNnxb?s=20)
 - [AMA with SWFT blockchain](https://www.youtube.com/watch?v=o0JbAKsOcO8&t=10s)
