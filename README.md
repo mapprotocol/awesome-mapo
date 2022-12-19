@@ -98,4 +98,4 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 | Name | Kind |  Website  | Twitter |  Github |
 |---|---|---|---|---|
-|  ButterNetwork | dApp | [Butter Network](https://www.butternetwork.io/)  |  [twitter](https://twitter.com/ButterNetworkio) | [github](https://github.com/butternetwork)  |
+|  ButterNetwork | dApp | [Butter Network](https://www.butternetwork.io/)  |  [Butter Twitter](https://twitter.com/ButterNetworkio) | [Butter GitHub](https://github.com/butternetwork)  |
