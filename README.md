@@ -96,6 +96,6 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 ## Projects Building on MAP
 
-| Name | Kind | Status |  Website  | Twitter |  Github |
+| Name | Kind |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
-|  ButterNetwork | dApp | UnderDev | [butternetwork](https://www.butternetwork.io/)  |  [twitter](https://twitter.com/ButterNetworkio) | [github](https://github.com/butternetwork)  |
+|  ButterNetwork | dApp | [butternetwork](https://www.butternetwork.io/)  |  [twitter](https://twitter.com/ButterNetworkio) | [github](https://github.com/butternetwork)  |
