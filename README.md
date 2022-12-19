@@ -62,6 +62,9 @@ A maintained and comprehensive list of MAP Protocol resources!
 + [Understanding Cross-Chain Communication](https://mapprotocolofficial.medium.com/map-protocol-understanding-cross-chain-communication-relay-light-client-bbed35e3701c) — Relay & Light Client
 
 ## AMAs
+- [AMA with Genius Club: History and Future of Popular Public Chains and Infra Projects](https://twitter.com/i/spaces/1gqGvyAmVMgKB?s=20)
+- [AMA with .bit 打造跨链 DID] (https://twitter.com/i/spaces/1LyxBqkmWqaJN?s=20)
+- [AMA with Torum 全链跨链与重塑 Web3 社交](https://twitter.com/i/spaces/1mnGeRPoOgrJX?s=20)
 - [AMA with Zebec Web3 流支付与全链跨链](https://twitter.com/i/spaces/1OyKAVkPmAoGb?s=20)
 - [AMA with Zebec on Web3 Money Streaming and Omnichain Ecosystem](https://twitter.com/i/spaces/1BdxYyDjNALxX?s=20)
 - [Huddle with OGs in the Cold Bear熊市抱团取暖：面临熊市和加密货币两大危机，区块链/加密世界将何去何从？](https://twitter.com/i/spaces/1lDGLnEnYNmxm?s=20)
@@ -95,4 +98,4 @@ A maintained and comprehensive list of MAP Protocol resources!
 
 | Name | Kind | Status |  Website  | Twitter |  Github |
 |---|---|---|---|---|---|
-|  ButterNetwork | dApp | UnderDev | [barternetwork](https://www.barternetwork.io/)  |  [twitter](https://twitter.com/BarterNetworkio) | [github](https://github.com/barternetwork)  |
+|  ButterNetwork | dApp | UnderDev | [butternetwork](https://www.butternetwork.io/)  |  [twitter](https://twitter.com/ButterNetworkio) | [github](https://github.com/butternetwork)  |
